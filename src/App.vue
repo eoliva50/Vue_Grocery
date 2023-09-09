@@ -57,7 +57,7 @@
       button {
         @apply bg-accent text-background p-2 text-2xl font-bold rounded-r-md;
         &:hover {
-          @apply bg-purplish;
+          @apply bg-cyan-500;
         }
       }
     }
@@ -66,7 +66,7 @@
       li {
         @apply bg-white text-background m-2 p-2 w-96 text-center;
         &:hover {
-          @apply bg-purplish font-bold cursor-pointer;
+          @apply bg-cyan-500 font-bold cursor-pointer;
         }
       }
     }
